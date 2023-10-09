@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "511073613154",
+    "project_id": "productos-app-ba520",
+    "storage_bucket": "productos-app-ba520.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511073613154:android:5e59c5b3f88878942ea83b",
+        "android_client_info": {
+          "package_name": "com.example.proresidencias"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiwtPnNTKxNuplP1xFYEtSud0ml0MLhDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
