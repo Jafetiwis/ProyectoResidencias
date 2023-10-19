@@ -2,6 +2,16 @@
     <string name="app_name">ProResidencias</string>
 
     <!--MAIN ACTIVITY-->
-    <string name ="Btn_Login">Login</string>
+    <string name="Btn_Login">Login</string>
     <string name="Btn_Registro">Registro</string>
+
+    <!--ACTIVIDAD REGISTRO-->
+    <string name="CrearCuentaTXT">Crear una cuenta</string>
+    <string name="NombreET">Nombres</string>
+    <string name="CorreoET">Correo electrónico</string>
+    <string name="ContraseñaET">Contraseña</string>
+    <string name="ConfirmarContraseñaET">Confirmar Contraseña</string>
+    <string name="RegistrarUsuario">Registrar</string>
+    <string name="TengounacuentaTXT">Tengo una cuenta</string>
+
 </resources>
